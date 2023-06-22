@@ -1,5 +1,5 @@
 # Econocode
-A simple Python program for Econ. 
+A simple Python program for Economics. The program gives you all the answers related to Demand, Supply, and Equilibrium Lessons in A/L Economics. The user only needs to give the a and b values for the Demand and Supply functions. There is a limitation that this program only has designed for QD = a - Pb and QS = -a + Pb format.  
 
 Topic:- Demand, Supply, and Equilibrium
 
